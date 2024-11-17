@@ -176,7 +176,7 @@ const CartUI = () => {
             Your Shopping Bag Is Empty
           </h2>
           <Link
-            href={"/all-products"}
+            href={"/products"}
             className="mt-8 rounded-lg bg-black px-6 py-3 capitalize whitespace text-white transition-colors duration-300 hover:bg-gray-800"
           >
             Explore Our Products
